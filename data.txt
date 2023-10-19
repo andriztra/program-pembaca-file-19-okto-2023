@@ -1,5 +1,19 @@
-100412 Alexander Mangkubumi 24.000.980,89
-200623 Livy Dina Mariana 345.000.670,00
-300987 Sudarto 0.00
-400422 Dimas Oliver 420.000,16
-500788 Rich Bryan Danuarta 224.000.000,62
+ID      : 100412
+Nama    : Alexander Mangkubumi
+Deposit : 24.000.980,89
+
+ID      : 200623
+Nama    : Livy Dina Mariana
+Deposit : 345.000.670,00
+
+ID      : 300987
+Nama    : Sudarto
+Deposit : 0.00
+
+ID      : 400422
+Nama    : Dimas Oliver
+Deposit : 420.000,16
+ 
+ID      : 500788
+Nama    : Rich Bryan Danuarta
+Deposit : 224.000.000,62
